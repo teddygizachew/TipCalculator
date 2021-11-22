@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3FDCF731273C60D8001AD236 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDCF730273C60D8001AD236 /* SettingsViewController.swift */; };
 		3FFCFFC62739BDA20025C886 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFCFFC52739BDA20025C886 /* AppDelegate.swift */; };
 		3FFCFFC82739BDA20025C886 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFCFFC72739BDA20025C886 /* SceneDelegate.swift */; };
 		3FFCFFCA2739BDA20025C886 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFCFFC92739BDA20025C886 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3FDCF730273C60D8001AD236 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		3FFCFFC22739BDA20025C886 /* Prework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Prework.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FFCFFC52739BDA20025C886 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3FFCFFC72739BDA20025C886 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				3FFCFFC72739BDA20025C886 /* SceneDelegate.swift */,
 				3FFCFFC92739BDA20025C886 /* ViewController.swift */,
 				3FFCFFCB2739BDA20025C886 /* Main.storyboard */,
+				3FDCF730273C60D8001AD236 /* SettingsViewController.swift */,
 				3FFCFFCE2739BDAC0025C886 /* Assets.xcassets */,
 				3FFCFFD02739BDAC0025C886 /* LaunchScreen.storyboard */,
 				3FFCFFD32739BDAC0025C886 /* Info.plist */,
@@ -261,6 +264,7 @@
 				3FFCFFCA2739BDA20025C886 /* ViewController.swift in Sources */,
 				3FFCFFC62739BDA20025C886 /* AppDelegate.swift in Sources */,
 				3FFCFFC82739BDA20025C886 /* SceneDelegate.swift in Sources */,
+				3FDCF731273C60D8001AD236 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
